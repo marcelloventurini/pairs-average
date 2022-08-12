@@ -1,18 +1,3 @@
-## Getting Started
+Pequeno programa feito como parte de uma série de exercícios de fixação sobre vetores do curso Java Completo - Udemy / Nelio Alves.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A ideia era criar um programa para ler N números e criar um vetor com N elementos. Em seguida, exibir a média dos números pares informados. Por fim, exibir uma mensagem caso nenhum número par tenha sido informado.
